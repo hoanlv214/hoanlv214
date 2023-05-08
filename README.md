@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Hoan Lai Van. I am an Student at Hanoi University of Science and Technology, majoring in System Information(GINP - Grenoble INP).
+My name is Hoan Lai Van. I am an Student at Hanoi University of Science and Technology, majoring in System Information.
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ho%C3%A0n-l%E1%BA%A1i-v%C4%83n-976618220/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hoanlv214/)
