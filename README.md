@@ -8,6 +8,11 @@ My name is Hoan Lai Van. I am an Student at Hanoi University of Science and Tech
 
 ![Hoan's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hoanlv214&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
+<a href="https://github.com/hoanlv214/researchhub">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoanlv214&repo=researchhub&theme=radical" />
+</a>
+
 <a href="https://github.com/hoanlv214/chat-realtime-nodejs-mysql">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoanlv214&repo=chat-realtime-nodejs-mysql&theme=radical" />
