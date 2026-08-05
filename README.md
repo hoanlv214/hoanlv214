@@ -1,30 +1,128 @@
-### WELCOME TO MY PAGE 👋👋👋  
+# 👋 Hi, I'm Hoan Lai Van
 
-My name is **Hoan Lai Van**, a **Blockchain Developer** passionate about building decentralized applications and smart contracts. I graduated from **Hanoi University of Science and Technology**, majoring in **Information Systems**.  
+### Founder & Builder of QMA (Quant Memory Agent)
 
-## 🛠️ Tech Stack  
-- **Blockchain**: ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-black?logo=rust&logoColor=white) ![Move](https://img.shields.io/badge/-Move-orange)  
-- **Smart Contracts**: ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white) ![Solana](https://img.shields.io/badge/-Solana-9945FF?logo=solana&logoColor=white) ![Aptos](https://img.shields.io/badge/-Aptos-1D2932?logo=aptos&logoColor=white) ![Sui](https://img.shields.io/badge/-Sui-00A3FF?logo=sui&logoColor=white)  
-- **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-- **Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-  
+I'm a software engineer focused on building autonomous AI systems that can discover, evaluate, purchase, and utilize information without human intervention.
 
-## 📫 How to reach me  
-[![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ho%C3%A0n-l%E1%BA%A1i-v%C4%83n-976618220/)  
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hoanlv214/)  
+Currently, I'm building **QMA ([Quant Memory Agent](https://github.com/hoanlv214/qma))** — an AI-native marketplace and agent infrastructure where autonomous agents can acquire research, market intelligence, datasets, and analytical reports on demand.
 
-## 📊 GitHub Stats  
-![Hoan's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hoanlv214&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)  
+---
 
-## 🔥 Featured Projects  
-<a href="https://github.com/hoanlv214/researchhub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoanlv214&repo=researchhub&theme=radical" />
-</a>  
+## 🚀 What is QMA?
 
-<a href="https://github.com/hoanlv214/chat-realtime-nodejs-mysql">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoanlv214&repo=chat-realtime-nodejs-mysql&theme=radical" />
-</a>  
+QMA is an ecosystem designed for the future of AI-driven decision making.
 
-<a href="https://github.com/hoanlv214/web-crawler-nodejs-mongodb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoanlv214&repo=web-crawler-nodejs-mongodb&theme=radical" />
-</a>  
+Instead of searching manually, agents can:
+
+* Discover research providers
+* Evaluate information quality
+* Purchase premium reports
+* Manage spending budgets
+* Store long-term memory
+* Make autonomous decisions
+
+### Core Components
+
+#### 🤖 Agent Layer
+
+Autonomous agents capable of:
+
+* Planning tasks
+* Searching for information
+* Evaluating relevance
+* Managing budgets
+* Purchasing premium intelligence
+* Building persistent memory
+
+#### 🧠 Memory Layer
+
+Structured knowledge storage designed for:
+
+* Long-term memory
+* Retrieval-Augmented Generation (RAG)
+* Research indexing
+* Context persistence
+
+#### 💳 Payment Layer
+
+AI-native payment infrastructure using:
+
+* USDC
+* x402 Payments
+* Circle Gateway
+* Automated settlement flows
+
+#### 📊 Intelligence Marketplace
+
+A marketplace where creators can monetize:
+
+* Research reports
+* Market analysis
+* Datasets
+* Signals
+* Specialized knowledge
+
+---
+
+## 🛠 Technologies
+
+### Backend
+
+* Python
+* FastAPI
+* PostgreSQL
+* Redis
+* AsyncIO
+
+### AI & Agents
+
+* OpenAI
+* Anthropic
+* Agentic Workflows
+* Tool Calling
+* RAG Systems
+
+### Blockchain
+
+* Ethereum
+* Solidity
+* Circle Gateway
+* USDC Payments
+
+---
+
+## 🔥 Current Focus
+
+### Quant Memory Agent (QMA)
+
+Building an autonomous research economy where:
+
+* Humans create intelligence
+* Agents discover intelligence
+* Agents purchase intelligence
+* Agents learn from intelligence
+* Agents make better decisions
+
+---
+
+## 📈 Areas of Interest
+
+* AI Agents
+* Agent Commerce
+* Autonomous Economies
+* Quantitative Research
+* Market Intelligence
+* Algorithmic Trading
+* Knowledge Systems
+* Blockchain Infrastructure
+
+---
+
+## 📫 Connect
+
+* GitHub: [hoanlv214](https://github.com/hoanlv214)
+* LinkedIn: [penny](https://www.linkedin.com/in/hoanlv/)
+
+---
+
+> Building infrastructure for the next generation of autonomous AI agents.
